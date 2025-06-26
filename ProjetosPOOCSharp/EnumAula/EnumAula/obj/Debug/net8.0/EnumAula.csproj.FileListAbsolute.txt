@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\bin\Debug\net8.0\EnumAula.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\bin\Debug\net8.0\EnumAula.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\bin\Debug\net8.0\EnumAula.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\bin\Debug\net8.0\EnumAula.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\bin\Debug\net8.0\EnumAula.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\EnumAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\EnumAula.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\EnumAula.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\EnumAula.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\EnumAula.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\refint\EnumAula.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\EnumAula.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\EnumAula.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\EnumAula\EnumAula\obj\Debug\net8.0\ref\EnumAula.dll

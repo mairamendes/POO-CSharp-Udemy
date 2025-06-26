@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\bin\Debug\net8.0\AulaException.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\bin\Debug\net8.0\AulaException.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\bin\Debug\net8.0\AulaException.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\bin\Debug\net8.0\AulaException.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\bin\Debug\net8.0\AulaException.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\AulaException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\AulaException.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\AulaException.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\AulaException.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\AulaException.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\refint\AulaException.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\AulaException.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\AulaException.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaException\AulaException\obj\Debug\net8.0\ref\AulaException.dll

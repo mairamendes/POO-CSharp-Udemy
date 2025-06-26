@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\bin\Debug\net8.0\ExercicioTaxPayers.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\bin\Debug\net8.0\ExercicioTaxPayers.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\bin\Debug\net8.0\ExercicioTaxPayers.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\bin\Debug\net8.0\ExercicioTaxPayers.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\bin\Debug\net8.0\ExercicioTaxPayers.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\ExercicioTaxPayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\ExercicioTaxPayers.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\ExercicioTaxPayers.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\ExercicioTaxPayers.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\ExercicioTaxPayers.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\refint\ExercicioTaxPayers.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\ExercicioTaxPayers.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\ExercicioTaxPayers.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioTaxPayers\ExercicioTaxPayers\obj\Debug\net8.0\ref\ExercicioTaxPayers.dll

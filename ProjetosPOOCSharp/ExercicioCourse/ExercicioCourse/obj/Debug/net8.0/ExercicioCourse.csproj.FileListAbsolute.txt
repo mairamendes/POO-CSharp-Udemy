@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\bin\Debug\net8.0\ExercicioCourse.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\bin\Debug\net8.0\ExercicioCourse.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\bin\Debug\net8.0\ExercicioCourse.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\bin\Debug\net8.0\ExercicioCourse.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\bin\Debug\net8.0\ExercicioCourse.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\ExercicioCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\ExercicioCourse.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\ExercicioCourse.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\ExercicioCourse.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\ExercicioCourse.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\refint\ExercicioCourse.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\ExercicioCourse.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\ExercicioCourse.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioCourse\ExercicioCourse\obj\Debug\net8.0\ref\ExercicioCourse.dll

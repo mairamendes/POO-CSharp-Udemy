@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\refint\ExercicioFuncionario.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ref\ExercicioFuncionario.dll

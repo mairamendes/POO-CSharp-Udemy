@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\EnumAula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2012067-C1E2-4F17-805E-68418B5B79C1}|EnumAula\\EnumAula.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\enumaula\\enumaula\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2012067-C1E2-4F17-805E-68418B5B79C1}|EnumAula\\EnumAula.csproj|solutionrelative:enumaula\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2012067-C1E2-4F17-805E-68418B5B79C1}|EnumAula\\EnumAula.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\enumaula\\enumaula\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2012067-C1E2-4F17-805E-68418B5B79C1}|EnumAula\\EnumAula.csproj|solutionrelative:enumaula\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2012067-C1E2-4F17-805E-68418B5B79C1}|EnumAula\\EnumAula.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\enumaula\\enumaula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2012067-C1E2-4F17-805E-68418B5B79C1}|EnumAula\\EnumAula.csproj|solutionrelative:enumaula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\EnumAula\\EnumAula\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "EnumAula\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\EnumAula\\EnumAula\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "EnumAula\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:51:32.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\EnumAula\\EnumAula\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "EnumAula\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\EnumAula\\EnumAula\\Entities\\Order.cs",
+              "RelativeToolTip": "EnumAula\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:50:52.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\EnumAula\\EnumAula\\Program.cs",
+              "RelativeDocumentMoniker": "EnumAula\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\EnumAula\\EnumAula\\Program.cs",
+              "RelativeToolTip": "EnumAula\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:50:12.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\bin\Debug\net8.0\AulaProductAdvanced.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\bin\Debug\net8.0\AulaProductAdvanced.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\bin\Debug\net8.0\AulaProductAdvanced.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\bin\Debug\net8.0\AulaProductAdvanced.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\bin\Debug\net8.0\AulaProductAdvanced.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\AulaProductAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\AulaProductAdvanced.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\AulaProductAdvanced.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\AulaProductAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\AulaProductAdvanced.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\refint\AulaProductAdvanced.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\AulaProductAdvanced.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\AulaProductAdvanced.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaProductAdvanced\AulaProductAdvanced\obj\Debug\net8.0\ref\AulaProductAdvanced.dll

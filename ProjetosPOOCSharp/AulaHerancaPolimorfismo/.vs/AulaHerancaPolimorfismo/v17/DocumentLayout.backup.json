@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaHerancaPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AA9C0-264E-4F82-998D-BE02976B87B3}|AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaherancapolimorfismo\\aulaherancapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AA9C0-264E-4F82-998D-BE02976B87B3}|AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo.csproj|solutionrelative:aulaherancapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AA9C0-264E-4F82-998D-BE02976B87B3}|AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaherancapolimorfismo\\aulaherancapolimorfismo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AA9C0-264E-4F82-998D-BE02976B87B3}|AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo.csproj|solutionrelative:aulaherancapolimorfismo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AA9C0-264E-4F82-998D-BE02976B87B3}|AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaherancapolimorfismo\\aulaherancapolimorfismo\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AA9C0-264E-4F82-998D-BE02976B87B3}|AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo.csproj|solutionrelative:aulaherancapolimorfismo\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "AulaHerancaPolimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo\\Entities\\OutsourcedEmployee.cs*",
+              "RelativeToolTip": "AulaHerancaPolimorfismo\\Entities\\OutsourcedEmployee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:47:05.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "AulaHerancaPolimorfismo\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo\\Entities\\Employee.cs*",
+              "RelativeToolTip": "AulaHerancaPolimorfismo\\Entities\\Employee.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:46:45.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "AulaHerancaPolimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaHerancaPolimorfismo\\AulaHerancaPolimorfismo\\Program.cs*",
+              "RelativeToolTip": "AulaHerancaPolimorfismo\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:44:21.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\bin\Release\net8.0\ExercicioAccountException.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\bin\Release\net8.0\ExercicioAccountException.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\bin\Release\net8.0\ExercicioAccountException.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\bin\Release\net8.0\ExercicioAccountException.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\bin\Release\net8.0\ExercicioAccountException.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\ExercicioAccountException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\ExercicioAccountException.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\ExercicioAccountException.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\ExercicioAccountException.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\ExercicioAccountException.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\refint\ExercicioAccountException.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\ExercicioAccountException.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\ExercicioAccountException.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioAccountException\ExercicioAccountException\obj\Release\net8.0\ref\ExercicioAccountException.dll

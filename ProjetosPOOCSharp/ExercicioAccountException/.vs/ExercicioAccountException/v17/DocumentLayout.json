@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE882F4-11FA-4E54-B311-3F9CF7BDB21B}|ExercicioAccountException\\ExercicioAccountException.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioaccountexception\\exercicioaccountexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE882F4-11FA-4E54-B311-3F9CF7BDB21B}|ExercicioAccountException\\ExercicioAccountException.csproj|solutionrelative:exercicioaccountexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE882F4-11FA-4E54-B311-3F9CF7BDB21B}|ExercicioAccountException\\ExercicioAccountException.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioaccountexception\\exercicioaccountexception\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE882F4-11FA-4E54-B311-3F9CF7BDB21B}|ExercicioAccountException\\ExercicioAccountException.csproj|solutionrelative:exercicioaccountexception\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE882F4-11FA-4E54-B311-3F9CF7BDB21B}|ExercicioAccountException\\ExercicioAccountException.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioaccountexception\\exercicioaccountexception\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE882F4-11FA-4E54-B311-3F9CF7BDB21B}|ExercicioAccountException\\ExercicioAccountException.csproj|solutionrelative:exercicioaccountexception\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE882F4-11FA-4E54-B311-3F9CF7BDB21B}|ExercicioAccountException\\ExercicioAccountException.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioaccountexception\\exercicioaccountexception\\exercicioaccountexception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BE882F4-11FA-4E54-B311-3F9CF7BDB21B}|ExercicioAccountException\\ExercicioAccountException.csproj|solutionrelative:exercicioaccountexception\\exercicioaccountexception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\ExercicioAccountException\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "ExercicioAccountException\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\ExercicioAccountException\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "ExercicioAccountException\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:23:21.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\ExercicioAccountException\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "ExercicioAccountException\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\ExercicioAccountException\\Entities\\Account.cs",
+              "RelativeToolTip": "ExercicioAccountException\\Entities\\Account.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:18:13.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExercicioAccountException.csproj",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\ExercicioAccountException\\ExercicioAccountException.csproj",
+              "RelativeDocumentMoniker": "ExercicioAccountException\\ExercicioAccountException.csproj",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\ExercicioAccountException\\ExercicioAccountException.csproj",
+              "RelativeToolTip": "ExercicioAccountException\\ExercicioAccountException.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T13:17:38.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\ExercicioAccountException\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioAccountException\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioAccountException\\ExercicioAccountException\\Program.cs",
+              "RelativeToolTip": "ExercicioAccountException\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:15:57.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

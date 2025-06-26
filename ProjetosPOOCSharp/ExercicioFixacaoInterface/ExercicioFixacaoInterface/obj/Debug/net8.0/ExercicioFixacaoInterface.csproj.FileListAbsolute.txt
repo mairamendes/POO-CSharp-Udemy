@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\refint\ExercicioFixacaoInterface.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ref\ExercicioFixacaoInterface.dll

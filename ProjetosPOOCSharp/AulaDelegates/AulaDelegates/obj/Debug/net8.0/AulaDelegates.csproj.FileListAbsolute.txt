@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\bin\Debug\net8.0\AulaDelegates.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\bin\Debug\net8.0\AulaDelegates.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\bin\Debug\net8.0\AulaDelegates.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\bin\Debug\net8.0\AulaDelegates.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\bin\Debug\net8.0\AulaDelegates.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\AulaDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\AulaDelegates.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\AulaDelegates.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\AulaDelegates.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\AulaDelegates.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\refint\AulaDelegates.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\AulaDelegates.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\AulaDelegates.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaDelegates\AulaDelegates\obj\Debug\net8.0\ref\AulaDelegates.dll

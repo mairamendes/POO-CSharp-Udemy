@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\bin\Debug\net8.0\AulaHashSetESortedSet.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\bin\Debug\net8.0\AulaHashSetESortedSet.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\bin\Debug\net8.0\AulaHashSetESortedSet.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\bin\Debug\net8.0\AulaHashSetESortedSet.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\bin\Debug\net8.0\AulaHashSetESortedSet.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\AulaHashSetESortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\AulaHashSetESortedSet.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\AulaHashSetESortedSet.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\AulaHashSetESortedSet.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\AulaHashSetESortedSet.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\refint\AulaHashSetESortedSet.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\AulaHashSetESortedSet.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\AulaHashSetESortedSet.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHashSetESortedSet\AulaHashSetESortedSet\obj\Debug\net8.0\ref\AulaHashSetESortedSet.dll

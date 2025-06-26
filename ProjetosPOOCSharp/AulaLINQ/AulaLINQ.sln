@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaLINQ", "AulaLINQ\AulaLINQ.csproj", "{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B181D9-075E-4911-BF37-EA0D904FD13E}
+	EndGlobalSection
+EndGlobal

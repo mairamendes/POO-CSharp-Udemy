@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaExtensionMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A6A6D5-44C7-4995-AAB0-E635D5A7A0AB}|AulaExtensionMethods\\AulaExtensionMethods.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaextensionmethods\\aulaextensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A6A6D5-44C7-4995-AAB0-E635D5A7A0AB}|AulaExtensionMethods\\AulaExtensionMethods.csproj|solutionrelative:aulaextensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A6A6D5-44C7-4995-AAB0-E635D5A7A0AB}|AulaExtensionMethods\\AulaExtensionMethods.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaextensionmethods\\aulaextensionmethods\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A6A6D5-44C7-4995-AAB0-E635D5A7A0AB}|AulaExtensionMethods\\AulaExtensionMethods.csproj|solutionrelative:aulaextensionmethods\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A6A6D5-44C7-4995-AAB0-E635D5A7A0AB}|AulaExtensionMethods\\AulaExtensionMethods.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaextensionmethods\\aulaextensionmethods\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A6A6D5-44C7-4995-AAB0-E635D5A7A0AB}|AulaExtensionMethods\\AulaExtensionMethods.csproj|solutionrelative:aulaextensionmethods\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaExtensionMethods\\AulaExtensionMethods\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "AulaExtensionMethods\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaExtensionMethods\\AulaExtensionMethods\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "AulaExtensionMethods\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:10:47.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaExtensionMethods\\AulaExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "AulaExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaExtensionMethods\\AulaExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "AulaExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:36:19.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaExtensionMethods\\AulaExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "AulaExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaExtensionMethods\\AulaExtensionMethods\\Program.cs",
+              "RelativeToolTip": "AulaExtensionMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:04:57.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

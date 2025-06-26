@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}|AulaLINQ\\AulaLINQ.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulalinq\\aulalinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}|AulaLINQ\\AulaLINQ.csproj|solutionrelative:aulalinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}|AulaLINQ\\AulaLINQ.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulalinq\\aulalinq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}|AulaLINQ\\AulaLINQ.csproj|solutionrelative:aulalinq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}|AulaLINQ\\AulaLINQ.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulalinq\\aulalinq\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDBD50F-B8A2-4D48-B139-42FD0CA7C936}|AulaLINQ\\AulaLINQ.csproj|solutionrelative:aulalinq\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaLINQ\\AulaLINQ\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "AulaLINQ\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaLINQ\\AulaLINQ\\Entities\\Category.cs",
+              "RelativeToolTip": "AulaLINQ\\Entities\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:01:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaLINQ\\AulaLINQ\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "AulaLINQ\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaLINQ\\AulaLINQ\\Entities\\Product.cs",
+              "RelativeToolTip": "AulaLINQ\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:01:03.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaLINQ\\AulaLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "AulaLINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaLINQ\\AulaLINQ\\Program.cs",
+              "RelativeToolTip": "AulaLINQ\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:47:38.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaProductAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC58AD71-B86C-4913-AE69-D09A84A22BFA}|AulaProductAdvanced\\AulaProductAdvanced.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaproductadvanced\\aulaproductadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC58AD71-B86C-4913-AE69-D09A84A22BFA}|AulaProductAdvanced\\AulaProductAdvanced.csproj|solutionrelative:aulaproductadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC58AD71-B86C-4913-AE69-D09A84A22BFA}|AulaProductAdvanced\\AulaProductAdvanced.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaproductadvanced\\aulaproductadvanced\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC58AD71-B86C-4913-AE69-D09A84A22BFA}|AulaProductAdvanced\\AulaProductAdvanced.csproj|solutionrelative:aulaproductadvanced\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaProductAdvanced\\AulaProductAdvanced\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "AulaProductAdvanced\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaProductAdvanced\\AulaProductAdvanced\\Entities\\Product.cs",
+              "RelativeToolTip": "AulaProductAdvanced\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:22:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaProductAdvanced\\AulaProductAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "AulaProductAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaProductAdvanced\\AulaProductAdvanced\\Program.cs",
+              "RelativeToolTip": "AulaProductAdvanced\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:20:08.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

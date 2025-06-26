@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExercicioEleicaoDictionary/1.0.0": {
+        "runtime": {
+          "ExercicioEleicaoDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioEleicaoDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

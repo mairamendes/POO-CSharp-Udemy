@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6752486-2C84-471B-AE13-A56EACCD895A}|AulaException\\AulaException.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaexception\\aulaexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6752486-2C84-471B-AE13-A56EACCD895A}|AulaException\\AulaException.csproj|solutionrelative:aulaexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6752486-2C84-471B-AE13-A56EACCD895A}|AulaException\\AulaException.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaexception\\aulaexception\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6752486-2C84-471B-AE13-A56EACCD895A}|AulaException\\AulaException.csproj|solutionrelative:aulaexception\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6752486-2C84-471B-AE13-A56EACCD895A}|AulaException\\AulaException.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaexception\\aulaexception\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6752486-2C84-471B-AE13-A56EACCD895A}|AulaException\\AulaException.csproj|solutionrelative:aulaexception\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6752486-2C84-471B-AE13-A56EACCD895A}|AulaException\\AulaException.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulaexception\\aulaexception\\aulaexception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6752486-2C84-471B-AE13-A56EACCD895A}|AulaException\\AulaException.csproj|solutionrelative:aulaexception\\aulaexception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\AulaException\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "AulaException\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\AulaException\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "AulaException\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:54:03.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\AulaException\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "AulaException\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\AulaException\\Entities\\Reservation.cs",
+              "RelativeToolTip": "AulaException\\Entities\\Reservation.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:19:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AulaException",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\AulaException\\AulaException.csproj",
+              "RelativeDocumentMoniker": "AulaException\\AulaException.csproj",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\AulaException\\AulaException.csproj",
+              "RelativeToolTip": "AulaException\\AulaException.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T12:18:47.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\AulaException\\Program.cs",
+              "RelativeDocumentMoniker": "AulaException\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaException\\AulaException\\Program.cs",
+              "RelativeToolTip": "AulaException\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:16:11.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

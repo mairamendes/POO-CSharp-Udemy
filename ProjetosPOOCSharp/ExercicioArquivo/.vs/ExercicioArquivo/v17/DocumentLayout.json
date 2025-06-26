@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioArquivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{929B8086-122C-46F4-8F74-2CA1BF3B55E2}|ExercicioArquivo\\ExercicioArquivo.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioarquivo\\exercicioarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929B8086-122C-46F4-8F74-2CA1BF3B55E2}|ExercicioArquivo\\ExercicioArquivo.csproj|solutionrelative:exercicioarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929B8086-122C-46F4-8F74-2CA1BF3B55E2}|ExercicioArquivo\\ExercicioArquivo.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioarquivo\\exercicioarquivo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929B8086-122C-46F4-8F74-2CA1BF3B55E2}|ExercicioArquivo\\ExercicioArquivo.csproj|solutionrelative:exercicioarquivo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioArquivo\\ExercicioArquivo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioArquivo\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioArquivo\\ExercicioArquivo\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioArquivo\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:46:13.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioArquivo\\ExercicioArquivo\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioArquivo\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioArquivo\\ExercicioArquivo\\Program.cs",
+              "RelativeToolTip": "ExercicioArquivo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:04:04.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

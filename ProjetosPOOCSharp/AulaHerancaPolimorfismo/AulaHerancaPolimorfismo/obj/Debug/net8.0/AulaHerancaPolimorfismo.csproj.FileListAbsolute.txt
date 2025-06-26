@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\bin\Debug\net8.0\AulaHerancaPolimorfismo.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\bin\Debug\net8.0\AulaHerancaPolimorfismo.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\bin\Debug\net8.0\AulaHerancaPolimorfismo.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\bin\Debug\net8.0\AulaHerancaPolimorfismo.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\bin\Debug\net8.0\AulaHerancaPolimorfismo.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\AulaHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\AulaHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\AulaHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\AulaHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\AulaHerancaPolimorfismo.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\refint\AulaHerancaPolimorfismo.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\AulaHerancaPolimorfismo.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\AulaHerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaHerancaPolimorfismo\AulaHerancaPolimorfismo\obj\Debug\net8.0\ref\AulaHerancaPolimorfismo.dll

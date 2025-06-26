@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\bin\Debug\net8.0\ExercicioEmployeeLinq.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\bin\Debug\net8.0\ExercicioEmployeeLinq.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\bin\Debug\net8.0\ExercicioEmployeeLinq.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\bin\Debug\net8.0\ExercicioEmployeeLinq.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\bin\Debug\net8.0\ExercicioEmployeeLinq.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\ExercicioEmployeeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\ExercicioEmployeeLinq.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\ExercicioEmployeeLinq.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\ExercicioEmployeeLinq.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\ExercicioEmployeeLinq.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\refint\ExercicioEmployeeLinq.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\ExercicioEmployeeLinq.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\ExercicioEmployeeLinq.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEmployeeLinq\ExercicioEmployeeLinq\obj\Debug\net8.0\ref\ExercicioEmployeeLinq.dll

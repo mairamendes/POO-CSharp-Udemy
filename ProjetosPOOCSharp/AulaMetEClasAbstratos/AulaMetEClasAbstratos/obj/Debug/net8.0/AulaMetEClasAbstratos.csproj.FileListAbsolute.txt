@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\bin\Debug\net8.0\AulaMetEClasAbstratos.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\bin\Debug\net8.0\AulaMetEClasAbstratos.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\bin\Debug\net8.0\AulaMetEClasAbstratos.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\bin\Debug\net8.0\AulaMetEClasAbstratos.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\bin\Debug\net8.0\AulaMetEClasAbstratos.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\AulaMetEClasAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\AulaMetEClasAbstratos.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\AulaMetEClasAbstratos.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\AulaMetEClasAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\AulaMetEClasAbstratos.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\refint\AulaMetEClasAbstratos.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\AulaMetEClasAbstratos.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\AulaMetEClasAbstratos.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaMetEClasAbstratos\AulaMetEClasAbstratos\obj\Debug\net8.0\ref\AulaMetEClasAbstratos.dll

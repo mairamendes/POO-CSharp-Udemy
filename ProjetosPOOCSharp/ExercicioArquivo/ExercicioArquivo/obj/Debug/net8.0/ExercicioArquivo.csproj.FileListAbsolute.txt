@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\refint\ExercicioArquivo.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ref\ExercicioArquivo.dll

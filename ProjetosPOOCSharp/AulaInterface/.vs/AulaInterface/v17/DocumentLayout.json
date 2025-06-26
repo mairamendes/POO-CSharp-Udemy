@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulainterface\\aulainterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|solutionrelative:aulainterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulainterface\\aulainterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|solutionrelative:aulainterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulainterface\\aulainterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|solutionrelative:aulainterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulainterface\\aulainterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|solutionrelative:aulainterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulainterface\\aulainterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|solutionrelative:aulainterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulainterface\\aulainterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|solutionrelative:aulainterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\aulainterface\\aulainterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014BE93-8A9C-4686-A1EB-5CD6011D8374}|AulaInterface\\AulaInterface.csproj|solutionrelative:aulainterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "AulaInterface\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "AulaInterface\\Services\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:09:11.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "AulaInterface\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "AulaInterface\\Services\\RentalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:38:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "AulaInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "AulaInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:36:06.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "AulaInterface\\Entities\\CarRental.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "AulaInterface\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:27:25.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "AulaInterface\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "AulaInterface\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:22:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AulaInterface\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "AulaInterface\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:20:58.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Program.cs",
+              "RelativeDocumentMoniker": "AulaInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\AulaInterface\\AulaInterface\\Program.cs",
+              "RelativeToolTip": "AulaInterface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:07:02.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2A946-C6C3-4A0F-ABD1-E40F659AE492}|ExercicioOrder\\ExercicioOrder.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioorder\\exercicioorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2A946-C6C3-4A0F-ABD1-E40F659AE492}|ExercicioOrder\\ExercicioOrder.csproj|solutionrelative:exercicioorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2A946-C6C3-4A0F-ABD1-E40F659AE492}|ExercicioOrder\\ExercicioOrder.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioorder\\exercicioorder\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2A946-C6C3-4A0F-ABD1-E40F659AE492}|ExercicioOrder\\ExercicioOrder.csproj|solutionrelative:exercicioorder\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2A946-C6C3-4A0F-ABD1-E40F659AE492}|ExercicioOrder\\ExercicioOrder.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioorder\\exercicioorder\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2A946-C6C3-4A0F-ABD1-E40F659AE492}|ExercicioOrder\\ExercicioOrder.csproj|solutionrelative:exercicioorder\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2A946-C6C3-4A0F-ABD1-E40F659AE492}|ExercicioOrder\\ExercicioOrder.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioorder\\exercicioorder\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2A946-C6C3-4A0F-ABD1-E40F659AE492}|ExercicioOrder\\ExercicioOrder.csproj|solutionrelative:exercicioorder\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\ExercicioOrder\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ExercicioOrder\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\ExercicioOrder\\Entities\\Client.cs",
+              "RelativeToolTip": "ExercicioOrder\\Entities\\Client.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:07:28.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\ExercicioOrder\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ExercicioOrder\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\ExercicioOrder\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ExercicioOrder\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:06:17.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\ExercicioOrder\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioOrder\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\ExercicioOrder\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioOrder\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:06:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\ExercicioOrder\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioOrder\\ExercicioOrder\\Program.cs",
+              "RelativeToolTip": "ExercicioOrder\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:03:56.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

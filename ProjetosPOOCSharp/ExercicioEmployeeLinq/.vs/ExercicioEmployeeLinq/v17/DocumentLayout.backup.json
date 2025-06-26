@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioEmployeeLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF9018-2BCA-48C4-8EFC-E8A4510C5E5B}|ExercicioEmployeeLinq\\ExercicioEmployeeLinq.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioemployeelinq\\exercicioemployeelinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AF9018-2BCA-48C4-8EFC-E8A4510C5E5B}|ExercicioEmployeeLinq\\ExercicioEmployeeLinq.csproj|solutionrelative:exercicioemployeelinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF9018-2BCA-48C4-8EFC-E8A4510C5E5B}|ExercicioEmployeeLinq\\ExercicioEmployeeLinq.csproj|c:\\users\\maira.silva\\desktop\\projetosudemy\\exercicioemployeelinq\\exercicioemployeelinq\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AF9018-2BCA-48C4-8EFC-E8A4510C5E5B}|ExercicioEmployeeLinq\\ExercicioEmployeeLinq.csproj|solutionrelative:exercicioemployeelinq\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioEmployeeLinq\\ExercicioEmployeeLinq\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ExercicioEmployeeLinq\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioEmployeeLinq\\ExercicioEmployeeLinq\\Entities\\Employee.cs",
+              "RelativeToolTip": "ExercicioEmployeeLinq\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:39:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioEmployeeLinq\\ExercicioEmployeeLinq\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioEmployeeLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\ProjetosUdemy\\ExercicioEmployeeLinq\\ExercicioEmployeeLinq\\Program.cs",
+              "RelativeToolTip": "ExercicioEmployeeLinq\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:34:14.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\bin\Debug\net8.0\AulaExtensionMethods.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\bin\Debug\net8.0\AulaExtensionMethods.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\bin\Debug\net8.0\AulaExtensionMethods.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\bin\Debug\net8.0\AulaExtensionMethods.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\bin\Debug\net8.0\AulaExtensionMethods.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\AulaExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\AulaExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\AulaExtensionMethods.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\AulaExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\AulaExtensionMethods.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\refint\AulaExtensionMethods.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\AulaExtensionMethods.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\AulaExtensionMethods.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaExtensionMethods\AulaExtensionMethods\obj\Debug\net8.0\ref\AulaExtensionMethods.dll

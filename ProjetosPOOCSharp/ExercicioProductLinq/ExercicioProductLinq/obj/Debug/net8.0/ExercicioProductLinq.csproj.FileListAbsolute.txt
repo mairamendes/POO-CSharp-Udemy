@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\bin\Debug\net8.0\ExercicioProductLinq.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\bin\Debug\net8.0\ExercicioProductLinq.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\bin\Debug\net8.0\ExercicioProductLinq.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\bin\Debug\net8.0\ExercicioProductLinq.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\bin\Debug\net8.0\ExercicioProductLinq.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\ExercicioProductLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\ExercicioProductLinq.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\ExercicioProductLinq.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\ExercicioProductLinq.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\ExercicioProductLinq.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\refint\ExercicioProductLinq.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\ExercicioProductLinq.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\ExercicioProductLinq.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProductLinq\ExercicioProductLinq\obj\Debug\net8.0\ref\ExercicioProductLinq.dll

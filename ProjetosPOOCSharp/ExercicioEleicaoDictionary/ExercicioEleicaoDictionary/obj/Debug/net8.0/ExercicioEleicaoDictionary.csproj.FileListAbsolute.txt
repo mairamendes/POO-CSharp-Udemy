@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\bin\Debug\net8.0\ExercicioEleicaoDictionary.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\bin\Debug\net8.0\ExercicioEleicaoDictionary.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\bin\Debug\net8.0\ExercicioEleicaoDictionary.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\bin\Debug\net8.0\ExercicioEleicaoDictionary.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\bin\Debug\net8.0\ExercicioEleicaoDictionary.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\ExercicioEleicaoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\ExercicioEleicaoDictionary.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\ExercicioEleicaoDictionary.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\ExercicioEleicaoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\ExercicioEleicaoDictionary.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\refint\ExercicioEleicaoDictionary.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\ExercicioEleicaoDictionary.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\ExercicioEleicaoDictionary.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioEleicaoDictionary\ExercicioEleicaoDictionary\obj\Debug\net8.0\ref\ExercicioEleicaoDictionary.dll

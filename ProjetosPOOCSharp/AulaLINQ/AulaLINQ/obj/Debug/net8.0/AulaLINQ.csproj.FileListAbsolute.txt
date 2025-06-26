@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\bin\Debug\net8.0\AulaLINQ.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\bin\Debug\net8.0\AulaLINQ.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\bin\Debug\net8.0\AulaLINQ.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\bin\Debug\net8.0\AulaLINQ.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\bin\Debug\net8.0\AulaLINQ.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\AulaLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\AulaLINQ.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\AulaLINQ.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\AulaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\AulaLINQ.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\refint\AulaLINQ.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\AulaLINQ.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\AulaLINQ.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\AulaLINQ\AulaLINQ\obj\Debug\net8.0\ref\AulaLINQ.dll

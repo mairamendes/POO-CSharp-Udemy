@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\bin\Debug\net8.0\ExercicioProduct.exe
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\bin\Debug\net8.0\ExercicioProduct.deps.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\bin\Debug\net8.0\ExercicioProduct.runtimeconfig.json
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\bin\Debug\net8.0\ExercicioProduct.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\bin\Debug\net8.0\ExercicioProduct.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\ExercicioProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\ExercicioProduct.AssemblyInfoInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\ExercicioProduct.AssemblyInfo.cs
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\ExercicioProduct.csproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\ExercicioProduct.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\refint\ExercicioProduct.dll
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\ExercicioProduct.pdb
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\ExercicioProduct.genruntimeconfig.cache
+C:\Users\maira.silva\Desktop\ProjetosUdemy\ExercicioProduct\ExercicioProduct\obj\Debug\net8.0\ref\ExercicioProduct.dll
